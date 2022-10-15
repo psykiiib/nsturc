@@ -1,0 +1,13 @@
+.text-justify div a{
+    text-decoration: none;
+    color: #337ab7;
+    padding: 12px 15px;
+
+}
+
+.text-justify div:hover{
+    padding: 12px 15px;
+    border: 1px solid #E3E3E3;
+    background-color:#E3E3E3;
+    border-radius: 6px;
+}

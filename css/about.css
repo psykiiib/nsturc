@@ -1,0 +1,135 @@
+main{
+    margin: 30px;
+    padding-bottom:10px;
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.center {
+margin: auto;
+width: 80%;
+border: 1px;
+padding: 10px;
+}
+.text-justify{
+    text-align: justify;
+}
+.dlink a{
+    text-decoration: none;
+    float: right;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #337ab7;
+    border: 1px solid #337ab7;
+    border-radius: 4px;
+    padding: 4px 12px;
+}
+.dlink a:hover{
+    border: 1px solid;
+    border-radius: 4px;
+    font-weight: bolder;
+    color: #000000;
+    background-color: #cc8548;
+    filter: invert(1);
+}
+
+.ppapers{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    padding-bottom: 0;
+}
+.tlist{
+    font-family: 'Open Sans', sans-serif;
+}
+.tlist table{
+    padding-top: 10px;
+}
+.tdn{
+    padding-left: 100px;
+}
+.tdn2{
+    padding-left: 50px;
+}
+.tlist thead{
+    background-color: #6c757d;
+    color: #ffffff;
+}
+
+tbody{
+    font-size: 14px;
+    padding-top: 20px;
+}
+tbody td{
+    padding: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.dpadd{
+    padding-top: 20px;
+    max-width: 80%;
+}
+.dpadd li{
+    color: #337ab7;
+}
+.dpadd a{
+    display: inline-block;
+    float: right;
+    margin-right: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #337ab7;
+    border: 1px solid #337ab7;
+    border-radius: 4px;
+    padding: 4px 12px;
+}
+.dpadd a:hover{
+    border: 1px solid;
+    border-radius: 4px;
+    font-weight: bolder;
+    color: #000000;
+    background-color: #cc8548;
+    filter: invert(1);
+}
+.dpadd ul{
+    padding-bottom: 6px;
+}
+.cpadd{
+    padding-bottom: 20px;
+}
+.ctable thead{
+    background-color: #6c757d;
+    color: #ffffff;
+}
+.ctone{
+    text-align: center;
+}
+.cttwo{
+    text-align: left;
+    margin-left:auto;
+    margin-right:auto;
+}
+.cttp{
+    padding-left: 50px;
+}
+.emb-pdf{
+    max-height: 100%;
+    zoom: 150%;
+}
+.div-img-11{
+    display: inline block;
+    padding: 25px;
+    margin-left: 70px;
+}
+.center a{
+    text-decoration: none;
+}
+.center a:hover{
+    text-decoration: underline;
+}

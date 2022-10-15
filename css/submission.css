@@ -1,0 +1,38 @@
+p.particle{
+    font-size: 12px;
+    padding-bottom:15px;
+}
+
+main input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.pid{
+    background-color: #e9ecef;
+    opacity:1;
+}
+
+.form-control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+}
+
+button:hover {
+    border-color: #FFFFFF;
+    background-color: #0b7dda;
+    color: #FFFFFF;
+}

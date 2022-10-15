@@ -1,0 +1,32 @@
+.div-tab tr, th{
+    vertical-align: left;
+}
+.divtable1{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 6px;
+    margin-left: 100px;
+}
+.divtable1 img{
+    padding: 50px;
+    border-radius: 50%;
+}
+.divtable2 th{
+    background: #F2F2F2;
+    text-align: left;
+    height: 30px;
+}
+th.title{
+    padding-left: 25%;
+}
+th.cited{
+    width: 10px;
+}
+.divtable2 td{
+    color: #337ab7;
+}
+
+.divtable2 tr:hover{
+    background: #F5F5F5;
+    border-radius: 6px;
+}

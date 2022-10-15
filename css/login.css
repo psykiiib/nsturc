@@ -1,0 +1,84 @@
+body, html{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    margin-bottom: 0;
+}
+form {
+    padding: 60px;
+    border: 2px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo{
+    width: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}.tab {
+ margin-left: 48%;
+}
+
+button{
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.one{
+    background-color: #FFFFFF;
+    padding: 4px 10px;
+    display: inline-block;
+    margin: 3px 2px;
+    border: 1px solid #337ab7;
+    border-radius: 6px;
+}
+.two{
+    background-color: #337ab7;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold ;
+    margin: 3px 2px;
+    border: 1px solid #337ab7;
+    border-radius: 6px;
+}
+.two:hover {
+    border-color: #FFFFFF;
+    background-color: #0b7dda;
+    color: #FFFFFF;
+}
+
+
+.cont-two{
+    text-align: center;
+}
+
+.sign {
+
+    text-align: center;
+    padding-top: 30px;
+    font-size: 11pt;
+}
+.sign a{
+    text-decoration: none;
+    color: #337ab7;
+}
+.sign a:hover{
+    font-weight: bold;
+    color: #0b7dda;
+    text-decoration: underline;
+}
