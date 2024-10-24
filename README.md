@@ -1,5 +1,7 @@
 # NSTURC - Research Cell Portal
 
+![NSTURC Logo](images/nstu_logo.png)
+
 ## Overview
 
 **NSTURC (Noakhali Science and Technology University Research Cell)** is a digital platform designed to facilitate research activities at Noakhali Science and Technology University (NSTU). This platform provides an accessible and centralized repository for researchers and faculty members to publish, store, and share their research work.
