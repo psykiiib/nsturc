@@ -23,7 +23,7 @@ The primary mission of NSTURC is to lead the research practice at NSTU towards g
 
 ## How to Submit a Paper
 
-1. Navigate to the [NSTURC Website](#).
+1. Navigate to the [NSTURC Website](index.html).
 2. Sign up or log in to your account.
 3. Access the "Submission" section from the main menu.
 4. Fill out the necessary details regarding your paper.
@@ -39,4 +39,4 @@ The primary mission of NSTURC is to lead the research practice at NSTU towards g
 
 ## Contact Information
 
-For any inquiries regarding paper submissions or the platform, please contact NSTURC through the [Contact Page](#).
+For any inquiries regarding paper submissions or the platform, please contact NSTURC through the [Contact Page](pages/contact.html).
