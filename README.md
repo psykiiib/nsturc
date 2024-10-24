@@ -23,7 +23,7 @@ The primary mission of NSTURC is to lead the research practice at NSTU towards g
 
 ## How to Submit a Paper
 
-1. Navigate to the [NSTURC Website](index.html).
+1. Navigate to the [NSTURC Website](https://psykiiib.github.io/nsturc/).
 2. Sign up or log in to your account.
 3. Access the "Submission" section from the main menu.
 4. Fill out the necessary details regarding your paper.
