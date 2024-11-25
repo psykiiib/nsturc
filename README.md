@@ -1,6 +1,8 @@
 # NSTURC - Research Cell Portal
 
-![NSTURC Logo](images/nsturc_home.png)
+<p align="center">
+  <img src="images/nsturc_home.png" alt="NSTURC Screenshot">
+</p>
 
 ## Overview
 
